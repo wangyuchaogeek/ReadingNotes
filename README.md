@@ -7,4 +7,5 @@
 	- [理性的陨落](https://github.com/wangyuchaogeek/ReadingNotes/blob/master/哲学家们都干了些什么/理性的陨落.md)
 
 
-#### [读书目录](https://github.com/wangyuchaogeek/ReadingNotes/blob/master/读书目录.md)
+### other links :
+[读书目录](https://github.com/wangyuchaogeek/ReadingNotes/blob/master/读书目录.md)
