@@ -8,7 +8,8 @@
 2. [《小狗钱钱》1，2](https://github.com/wangyuchaogeek/ReadingNotes/tree/master/小狗钱钱)
 	- [小狗钱钱1](https://github.com/wangyuchaogeek/ReadingNotes/blob/master/小狗钱钱/小狗钱钱1.md)
 	- [小狗钱钱2](https://github.com/wangyuchaogeek/ReadingNotes/blob/master/小狗钱钱/小狗钱钱2.md)
-3. [《心理学与生活》](https://github.com/wangyuchaogeek/ReadingNotes/tree/master/心理学与生活)
+3. [《高效能人士的七个习惯》](https://github.com/wangyuchaogeek/ReadingNotes/tree/master/高效能人士的七个习惯)
+4. [《心理学与生活》](https://github.com/wangyuchaogeek/ReadingNotes/tree/master/心理学与生活)
 	- [心理学与生活](https://github.com/wangyuchaogeek/ReadingNotes/blob/master/心理学与生活/心理学与生活.md)
 
 
