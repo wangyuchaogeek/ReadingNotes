@@ -12,7 +12,9 @@
 	- [第1部分 思维方式与原则](https://github.com/wangyuchaogeek/ReadingNotes/blob/master/高效能人士的七个习惯/第1部分%20思维方式与原则.md)
 	- [第2部分 个人领域的成功：从依赖到独立](https://github.com/wangyuchaogeek/ReadingNotes/blob/master/高效能人士的七个习惯/第2部分%20个人领域的成功：从依赖到独立.md)
 	- [第3部分 公众领域的成功：从独立到互赖](https://github.com/wangyuchaogeek/ReadingNotes/blob/master/高效能人士的七个习惯/第3部分%20公众领域的成功：从独立到互赖.md)
-	- [第4部分 自我提升和完善](https://github.com/wangyuchaogeek/ReadingNotes/blob/master/高效能人士的七个习惯/第4部分%20自我提升和完善.md)
+	- [第4部分 自我提升和完善](https://github.com/wangyuchaogeek/ReadingNotes/blob/master/高效能人士的七个习惯/第4部分%20自我提升和完善.md)  
+	- [我的个人使命宣言](https://github.com/wangyuchaogeek/ReadingNotes/blob/master/高效能人士的七个习惯/我的个人使命宣言.md) 
+	
 4. [《心理学与生活》](https://github.com/wangyuchaogeek/ReadingNotes/tree/master/心理学与生活)
 	- [心理学与生活](https://github.com/wangyuchaogeek/ReadingNotes/blob/master/心理学与生活/心理学与生活.md)
 
