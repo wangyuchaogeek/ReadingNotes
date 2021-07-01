@@ -14,8 +14,11 @@
 	- [第3部分 公众领域的成功：从独立到互赖](https://github.com/wangyuchaogeek/ReadingNotes/blob/master/高效能人士的七个习惯/第3部分%20公众领域的成功：从独立到互赖.md)
 	- [第4部分 自我提升和完善](https://github.com/wangyuchaogeek/ReadingNotes/blob/master/高效能人士的七个习惯/第4部分%20自我提升和完善.md)  
 	- [关于我自己的一些想法](https://github.com/wangyuchaogeek/ReadingNotes/blob/master/高效能人士的七个习惯/private) 
+
+4. [《如何阅读一本书》](https://github.com/wangyuchaogeek/ReadingNotes/tree/master/如何阅读一本书)
+	- [如何阅读一本书](https://github.com/wangyuchaogeek/ReadingNotes/blob/master/如何阅读一本书/如何阅读一本书.md)	  
 	
-4. [《心理学与生活》](https://github.com/wangyuchaogeek/ReadingNotes/tree/master/心理学与生活)
+5. [《心理学与生活》](https://github.com/wangyuchaogeek/ReadingNotes/tree/master/心理学与生活)
 	- [心理学与生活](https://github.com/wangyuchaogeek/ReadingNotes/blob/master/心理学与生活/心理学与生活.md)
 
 
