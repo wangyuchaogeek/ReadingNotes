@@ -16,7 +16,8 @@
 	- [关于我自己的一些想法](https://github.com/wangyuchaogeek/ReadingNotes/blob/master/高效能人士的七个习惯/private) 
 
 4. [《如何阅读一本书》](https://github.com/wangyuchaogeek/ReadingNotes/tree/master/如何阅读一本书)
-	- [如何阅读一本书](https://github.com/wangyuchaogeek/ReadingNotes/blob/master/如何阅读一本书/如何阅读一本书.md)	  
+	- [第一篇 阅读的层次](https://github.com/wangyuchaogeek/ReadingNotes/blob/master/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6/%E7%AC%AC%E4%B8%80%E7%AF%87%20%E9%98%85%E8%AF%BB%E7%9A%84%E5%B1%82%E6%AC%A1%20.md)	  
+	- [第二篇 阅读的第三个层次：分析阅读](https://github.com/wangyuchaogeek/ReadingNotes/blob/master/%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6/%E7%AC%AC%E4%BA%8C%E7%AF%87%20%E9%98%85%E8%AF%BB%E7%9A%84%E7%AC%AC%E4%B8%89%E4%B8%AA%E5%B1%82%E6%AC%A1%EF%BC%9A%E5%88%86%E6%9E%90%E9%98%85%E8%AF%BB.md)	  
 	
 5. [《心理学与生活》](https://github.com/wangyuchaogeek/ReadingNotes/tree/master/心理学与生活)
 	- [心理学与生活](https://github.com/wangyuchaogeek/ReadingNotes/blob/master/心理学与生活/心理学与生活.md)
