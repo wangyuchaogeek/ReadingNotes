@@ -22,6 +22,8 @@
 5. [《心理学与生活》](https://github.com/wangyuchaogeek/ReadingNotes/tree/master/心理学与生活)
 	- [心理学与生活](https://github.com/wangyuchaogeek/ReadingNotes/blob/master/心理学与生活/心理学与生活.md)
 
+6. [《亲密关系》](https://github.com/wangyuchaogeek/ReadingNotes/tree/master/亲密关系)
+	- [亲密关系](https://github.com/wangyuchaogeek/ReadingNotes/blob/master/亲密关系/亲密关系.md)
 
 
 ### other links :
