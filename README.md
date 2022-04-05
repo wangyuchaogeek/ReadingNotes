@@ -28,6 +28,10 @@
 7. [《动物庄园》](https://github.com/wangyuchaogeek/ReadingNotes/tree/master/动物庄园)
 	- [动物庄园](https://github.com/wangyuchaogeek/ReadingNotes/blob/master/动物庄园/动物庄园.md) 
 
+8. [《七十二堂写作课》](https://github.com/wangyuchaogeek/ReadingNotes/tree/master/七十二堂写作课)
+	- [七十二堂写作课](https://github.com/wangyuchaogeek/ReadingNotes/blob/master/七十二堂写作课/七十二堂写作课.md) 
+
+
 
 ### other links :
 [读书目录](https://github.com/wangyuchaogeek/ReadingNotes/blob/master/读书目录.md)   
