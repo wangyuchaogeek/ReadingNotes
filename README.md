@@ -25,6 +25,9 @@
 6. [《亲密关系》](https://github.com/wangyuchaogeek/ReadingNotes/tree/master/亲密关系)
 	- [亲密关系](https://github.com/wangyuchaogeek/ReadingNotes/blob/master/亲密关系/亲密关系.md)
 
+7. [《动物庄园》](https://github.com/wangyuchaogeek/ReadingNotes/tree/master/动物庄园)
+	- [亲密关系](https://github.com/wangyuchaogeek/ReadingNotes/blob/master/动物庄园/动物庄园.md) 
+
 
 ### other links :
 [读书目录](https://github.com/wangyuchaogeek/ReadingNotes/blob/master/读书目录.md)   
